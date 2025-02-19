@@ -1,6 +1,6 @@
 # Modal Window
 
-Created a Simple Application to display a modal window on clicking it 
+Created a Simple Application to display a modal window and closing it
 
 ## Tech Stack
 
